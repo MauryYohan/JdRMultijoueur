@@ -11,6 +11,7 @@ import javax.persistence.Table;
 
 import com.fasterxml.jackson.annotation.JsonView;
 //Just a
+//Coucou
 @Entity
 @Table(name="Joueur")
 @Inheritance(strategy = InheritanceType.JOINED)
