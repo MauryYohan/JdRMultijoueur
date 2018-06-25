@@ -10,7 +10,7 @@ import javax.persistence.ManyToOne;
 import javax.persistence.Table;
 
 import com.fasterxml.jackson.annotation.JsonView;
-//Just a change
+//Just a
 @Entity
 @Table(name="Joueur")
 @Inheritance(strategy = InheritanceType.JOINED)
